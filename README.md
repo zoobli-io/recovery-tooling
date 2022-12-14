@@ -73,13 +73,6 @@ IT teams can leverage these features alongside others, like linked cloning capab
 ## Windows installation
 
 - 1. Connect the USB drive on the target computer and boot the computer from the drive
-- 2. Press SHIFT+F10 to open a command prompt
-- 3. Type “DISKPART /S D:\ScriptName.txt”
-    - Where D is the letter of the USB drive
-    - Where ScriptName.txt is the name of the DISKPART script
-- 4. Install Windows on the **WINDOWS** partition
-- 5. On the final boot, where you are asked to configure the computer (OOBE), press 
-**CTRL+SHIFT+F3** to reboot in AUDIT mode
 
 ## Windows customization
 
